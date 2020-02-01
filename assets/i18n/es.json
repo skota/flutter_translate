@@ -1,0 +1,11 @@
+{
+  "app_bar": {
+    "title": "bienvenido"
+  },
+  "login": {
+    "title": "entrar a su cuenta",
+    "username": "nombre de usario",
+    "password": "Contraseña",
+    "submit": "Entrar"
+  }
+}

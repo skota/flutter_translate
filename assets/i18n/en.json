@@ -1,0 +1,11 @@
+{
+  "app_bar": {
+    "title": "Welcome "
+  },
+  "login": {
+    "title": "Login to your account",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Login"
+  }
+}
